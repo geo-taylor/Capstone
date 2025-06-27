@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lucida Console', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #aaaaaa;
+    background-color: #222222;
+}
+
+h1 {
+    font-family: "Bitcount Grid Double", 'Lucida Console', 'Lucida Sans';
+    color: #93199e;
+    font-size: 44pt;
+    font-weight: 444;
+    max-width: 50%;
+}
+
+h2 {
+    font-family: "Bitcount Grid Double", 'Lucida Console', 'Lucida Sans';
+    color: #72199e;
+    font-size: 22pt;
+    font-weight: 444;
+    max-width: 50%;
+}
+
+p {
+    font-family: 'Lucida Console', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #aaaaaa;
+    font-size: 9;
+}
+
+h4.bitcount-grid-double-uniquifier {
+    font-family: "Bitcount Grid Double", 'Lucida Console', 'Lucida Sans';
+    font-weight: 100;
+}
