@@ -24,9 +24,57 @@ p {
     font-family: 'Lucida Console', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #aaaaaa;
     font-size: 9;
+    line-height: 22pt;
+}
+
+ul {
+    line-height: 22pt;
 }
 
 h4.bitcount-grid-double-uniquifier {
     font-family: "Bitcount Grid Double", 'Lucida Console', 'Lucida Sans';
     font-weight: 100;
 }
+
+em {
+    font-style: italic;
+}
+
+figure {
+    text-align: center;
+    line-height: 22pt;
+}
+
+footer {
+    text-align: center;
+}
+
+footer em {
+    font-weight: bolder;
+}
+
+a {
+    color: #bb26e0;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b170ff;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #782049;
+    text-decoration: underline;
+}
+
+/* 
+font-weight property-css font weight
+font-style property - font-style
+<em> element-pixels, % and em
+<strong> element-syntax#strong
+line-height property-height
+text-align property-text align
+nested selector - nested selector
+pseudo-class selector - pseudo-class
+*/
